@@ -1,41 +1,38 @@
-## BooksNotes Privacy Policy
+```markdown
+# BooksNotes Support Site
 
-### English Version
+## What is BooksNotes?
 
-**Effective Date: [May 20, 2024]**
+BooksNotes is a highly effective tool for creating and managing reading journals. This section provides an overview and key features of the app.
 
-**1. Introduction**
+### Overview of BooksNotes
 
-BooksNotes ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our BooksNotes application ("the App"). By using the App, you agree to the terms of this Privacy Policy.
+BooksNotes is a reading journal app available for both iPhone and Android devices. With this app, you can easily import highlights from the Kindle app and organize them into clear, concise reading journals. It's an ideal tool for busy individuals who want to keep effective reading notes while saving time.
 
-**2. Information We Collect**
+### Features of BooksNotes
 
-We do not collect any personal information from users. Specifically:
+1. **Multi-Platform Support**:
+    - BooksNotes is available for both iPhone and Android. It can be used for free by anyone.
 
-- **Amazon Login Information**: When you log into the App using your Amazon account, you are using the login system provided by Amazon. BooksNotes does not collect your Amazon login information, email address, or any other personal information from your Amazon account.
-- **Kindle Highlights**: The Kindle Highlights imported through the App are stored only on your device and are not sent to or stored on any servers managed by BooksNotes.
+2. **Easy Highlight Import**:
+    - Easily import highlighted sections from the Kindle app into BooksNotes. This feature allows you to effortlessly reflect points of interest from your reading into your notes, helping you organize important information without hassle.
 
-**3. How We Use Your Information**
+3. **WYSIWYG Editor**:
+    - BooksNotes comes with a WYSIWYG (What You See Is What You Get) editor, allowing you to create easy-to-understand notes intuitively. You can easily modify text decorations and layouts to create visually appealing notes.
 
-Since we do not collect any personal information, we do not use your information for any purposes.
+4. **Free Memo Addition**:
+    - In addition to importing highlights, you can freely add your own memos and action plans. This allows you to turn the knowledge and ideas gained from your reading into concrete action plans, promoting practical application in your daily life.
 
-**4. Amazon Associates Program**
+5. **User-Friendly Interface**:
+    - The app features a simple and easy-to-use interface. Even first-time users can intuitively operate it and quickly start creating effective reading journals.
 
-BooksNotes participates in the Amazon Associates program to earn revenue. When you click on Amazon links within the App, a cookie may be placed on your browser to track any sales for the purposes of commissions.
+### Conclusion
 
-**5. Security of Your Information**
+BooksNotes is a powerful tool for streamlining the creation and management of reading journals. Available on both iPhone and Android, it includes features like Kindle highlight import and a WYSIWYG editor, making it accessible to everyone. Additionally, with the ability to freely add notes and its user-friendly interface, BooksNotes offers various convenient features. By leveraging these features, you can effectively use your reading journals and enhance your reading experience.
 
-We use administrative, technical, and physical security measures to protect the information stored on your device. However, no method of transmission over the Internet or method of electronic storage is 100% secure.
+---
 
-**6. Your Privacy Rights**
+## Contact Us
 
-Since we do not collect or store your personal information, there are no specific privacy rights related to personal data under this policy.
-
-**7. Changes to This Privacy Policy**
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App. You are advised to review this Privacy Policy periodically for any changes.
-
-**8. Contact Us**
-
-If you have any questions about this Privacy Policy, please contact us at [basicmaga@gmail.com].
-
+For inquiries, please contact us at: [basicmaga@gmail.com](mailto:basicmaga@gmail.com)
+```
