@@ -1,4 +1,3 @@
-```markdown
 # BooksNotes Support Site
 
 ## What is BooksNotes?
@@ -35,4 +34,3 @@ BooksNotes is a powerful tool for streamlining the creation and management of re
 ## Contact Us
 
 For inquiries, please contact us at: [basicmaga@gmail.com](mailto:basicmaga@gmail.com)
-```
