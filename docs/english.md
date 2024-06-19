@@ -1,5 +1,12 @@
 # BooksNotes Support Site
 
+## Download BooksNotes App
+iPhone
+[https://apps.apple.com/app/booksnotes-readingjournalapp/id6503668417](https://apps.apple.com/app/booksnotes-readingjournalapp/id6503668417)
+
+Android
+[https://play.google.com/store/apps/details?id=com.gmail.basicmaga.booksnotes](https://play.google.com/store/apps/details?id=com.gmail.basicmaga.booksnotes)
+
 ## What is BooksNotes?
 
 BooksNotes is a highly effective tool for creating and managing reading journals. This section provides an overview and key features of the app.
